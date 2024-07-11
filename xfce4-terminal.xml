@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<channel name="xfce4-terminal" version="1.0">
+  <property name="background-mode" type="string" value="TERMINAL_BACKGROUND_IMAGE"/>
+  <property name="background-darkness" type="double" value="0.72999999999999998"/>
+  <property name="font-name" type="string" value="Terminus 12"/>
+  <property name="misc-show-relaunch-dialog" type="bool" value="false"/>
+  <property name="background-image-file" type="string" value="/etc/dotfiles/wallpapers/cat.jpg"/>
+  <property name="background-image-style" type="string" value="TERMINAL_BACKGROUND_STYLE_CENTERED"/>
+  <property name="background-image-shading" type="double" value="0.89000000000000001"/>
+  <property name="color-background" type="string" value="#18bd148e1c28"/>
+  <property name="misc-default-geometry" type="string" value="83x24"/>
+</channel>
